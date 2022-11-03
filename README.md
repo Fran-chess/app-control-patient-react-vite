@@ -1,1 +1,1 @@
-# turnos app with react 
+# control patient app with react 
